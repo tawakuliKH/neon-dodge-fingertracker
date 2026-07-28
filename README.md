@@ -8,15 +8,15 @@ Built with **HTML5 Canvas**, **MediaPipe Hands**, and vanilla JavaScript. Runs i
 
 ## 🎥 Demo
 
-<video src="assets/gameplay-demo.mp4" controls width="700">
+<video src="https://raw.githubusercontent.com/tawakuliKH/neon-dodge-fingertracker/main/assets/gameplay-demo.mp4" controls width="700">
   Your browser doesn't support inline video playback.
   <a href="assets/gameplay-demo.mp4">Click here to download and watch the gameplay demo</a>.
 </video>
 
-> **Note:** GitHub renders inline video previews once this repo (and the video file above) has been pushed. If it doesn't play directly in this README, [click here to watch the gameplay demo](assets/gameplay-demo.mp4).
+> **Note:** If the video doesn't play directly above, [click here to watch the gameplay demo](assets/gameplay-demo.mp4).
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="Neon Dodge gameplay screenshot" width="700">
+  <img src="assets/Screenshot.png" alt="Neon Dodge gameplay screenshot" width="700">
 </p>
 
 ---
@@ -87,7 +87,7 @@ No build step, no dependencies to install — it's a single static HTML file.
 ├── README.md
 └── assets/
     ├── gameplay-demo.mp4   # Gameplay demo video
-    └── screenshot.png      # Gameplay screenshot
+    └── Screenshot.png      # Gameplay screenshot
 ```
 
 ---
