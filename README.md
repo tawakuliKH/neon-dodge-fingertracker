@@ -1,3 +1,6 @@
+
+
+
 # 🎮 Neon Dodge — Finger Tracker Edition
 
 A browser-based arcade game controlled entirely by your **index finger**, tracked live through your webcam. No mouse, no keyboard, no installs — just open the page and play.
@@ -8,10 +11,8 @@ Built with **HTML5 Canvas**, **MediaPipe Hands**, and vanilla JavaScript. Runs i
 
 ## 🎥 Demo
 
-<video src="https://raw.githubusercontent.com/tawakuliKH/neon-dodge-fingertracker/main/assets/gameplay-demo.mp4" controls width="700">
-  Your browser doesn't support inline video playback.
-  <a href="assets/gameplay-demo.mp4">Click here to download and watch the gameplay demo</a>.
-</video>
+https://github.com/user-attachments/assets/cbdce3bd-e702-4e8e-8964-5e0947bd27eb
+
 
 > **Note:** If the video doesn't play directly above, [click here to watch the gameplay demo](assets/gameplay-demo.mp4).
 
